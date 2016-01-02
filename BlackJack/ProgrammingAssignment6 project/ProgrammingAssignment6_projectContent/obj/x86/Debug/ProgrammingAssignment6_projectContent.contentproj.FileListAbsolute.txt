@@ -1,0 +1,2 @@
+C:\Users\Yaroslav\Desktop\XNA\ProgrammingAssignment6 project\ProgrammingAssignment6 project\ProgrammingAssignment6_projectContent\obj\x86\Debug\ProgrammingAssignment6_projectContent.contentprojResolveAssemblyReference.cache
+C:\Users\Yaroslav\Desktop\XNA\Black Jack\ProgrammingAssignment6 project\ProgrammingAssignment6_projectContent\obj\x86\Debug\ProgrammingAssignment6_projectContent.contentprojResolveAssemblyReference.cache
